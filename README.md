@@ -1,12 +1,11 @@
 <h1 align="center">Samin</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&pause=1000&color=2256F7&width=435&lines=Aspiring+Web+Developer;Aspiring+Data+Analyst;Pygame+Lover;React+Enthusiast;Knowledge+Seeker;Hard+Worker)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nunito&pause=1000&color=2256F7&width=435&lines=Aspiring+Web+Developer;Aspiring+Data+Analyst;Pygame+Lover;React+Enthusiast;Knowledge+Seeker;Hard+Worker" alt="Typing SVG" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samincgs&label=Profile%20views&color=0e75b6&style=flat" alt="samincgs" /> </p>
 <p align="left"> Hey:) I'm a computer science student who is passionate about web development, game development and data analysis. I love learning about new languages and tech stacks in order to become a better programmer<3 This is a repository where I track all my side projects and ideas. My main goal is self-improvement:3 I like comparing my progress from when I first started to now! Thank you for checking out my profile ❤️</p>
 - 🌱 I’m currently learning **Beautiful Soup, Sci-kit Learn, NextJS**
 
 - 💬 Ask me about **Pygame <3**
 
-- 📫 How to reach me **samincgs@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
