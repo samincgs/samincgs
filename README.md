@@ -3,11 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samincgs&label=Profile%20views&color=0e75b6&style=flat" alt="samincgs" /> </p>
 <p align="left"> Hey:) I'm a computer science student who is passionate about web development, game development and data analysis. I love learning about new languages and tech stacks in order to become a better programmer<3 This is a repository where I track all my side projects and ideas. My main goal is self-improvement:3 I like comparing my progress from when I first started to now! Thank you for checking out my profile ❤️</p>
 - 🌱 I’m currently learning **Beautiful Soup, Sci-kit Learn, NextJS**
-
 - 💬 Ask me about **Pygame <3**
 
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/samin-sharif-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samin-sharif-/" height="30" width="40" /></a>
 </p>
