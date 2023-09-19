@@ -15,19 +15,13 @@
     <!------------ Languages ----------------->
     <p >
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,ts,nodejs,py,java,html,c,cpp,cs" />
+        <img src="https://skillicons.dev/icons?i=js,ts,nodejs,py,java,html,css,c,cpp,cs" />
       </a>
     </p>
     <!---------------------- Frameworks ---------------------->
     <p >
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=react,nextjs,express,flask,selenium,django,spring," />
-      </a>
-    </p>
-    <!-------------------- Styling -------------------------->
-    <p >
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=css,tailwind,materialui,styledcomponents" />
       </a>
     </p>
     <!---------------------- Database & Deployment ---------------------->
@@ -39,7 +33,7 @@
     <!---------------------- Development Tools ---------------------->
     <p >
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=linux,vscode,eclipse,git,figma,godot,discord," />
+        <img src="https://skillicons.dev/icons?i=linux,vscode,eclipse,git,github,figma,godot,discord," />
       </a>
     </p>
   </div>
