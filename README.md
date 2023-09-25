@@ -19,19 +19,19 @@
     <!---------------------- Frameworks ---------------------->
     <p >
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,express,flask,selenium,django,spring,tailwind" />
+        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,express,selenium,spring" />
       </a>
     </p>
     <!---------------------- Database & Deployment ---------------------->
     <p >
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mongodb,mysql,postman,postgres,prisma,vercel,netlify" />
+        <img src="https://skillicons.dev/icons?i=mongodb,mysql,postman,prisma,vercel,netlify,heroku" />
       </a>
     </p>
     <!---------------------- Development Tools ---------------------->
     <p >
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=linux,vscode,eclipse,git,github,figma,godot,discord," />
+        <img src="https://skillicons.dev/icons?i=linux,vscode,eclipse,git,github,figma,discord," />
       </a>
     </p>
   </div>
