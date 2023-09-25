@@ -10,13 +10,14 @@
   ## My Tech Stack
 
   <div>
-    <!------------ Languages ----------------->
     <h6>Languages: </h6>
+    <!------------ Languages ----------------->
     <p >
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=js,ts,nodejs,py,java,html,css,c" />
       </a>
     </p>
+    <h6>Frameworks: </h6>
     <!---------------------- Frameworks ---------------------->
     <p >
       <a href="https://skillicons.dev">
