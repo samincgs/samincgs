@@ -11,7 +11,7 @@
 
   <div>
     <!------------ Languages ----------------->
-    #Languages:
+    ##Languages:
     <p >
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=js,ts,nodejs,py,java,html,css,c" />
