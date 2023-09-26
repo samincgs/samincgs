@@ -1,4 +1,4 @@
-![MasterHead](https://mcdn.wallpapersafari.com/medium/5/57/36WDl0.gif)
+![MasterHead](https://mcdn.wallpapersafari.com/medium/43/18/T2AOvt.png)
 
 
 <h1 align="center">Samin</h1>
