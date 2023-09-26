@@ -28,7 +28,7 @@
     <!---------------------- Database & Deployment ---------------------->
     <p >
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mongodb,mysql,postman,prisma,vercel,netlify,heroku" />
+        <img src="https://skillicons.dev/icons?i=mongodb,prisma,mysql,postman,vercel,netlify,heroku" />
       </a>
     </p>
     <h6>Developer Tools: </h6>
