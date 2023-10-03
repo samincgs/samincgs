@@ -41,7 +41,7 @@
   </div>
 
 
-<h6 align="center">Developer Tools: </h6>
+<h3 align="center">Github Stats: </h3>
  <div align="center">
     <img
       title="🔥 Get streak stats for your profile at git.io/streak-stats"
