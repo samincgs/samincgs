@@ -46,7 +46,7 @@
     <img
       title="🔥 Get streak stats for your profile at git.io/streak-stats"
       alt="streak for github"
-      src="https://streak-stats.demolab.com/?user=samincgs&theme=github&hide_border=true theme=great-gatsby&bg_color=192734&title_color=F3A852&icon_color=F3A852"
+      src="https://streak-stats.demolab.com/?user=samincgs&bg_color=192734&title_color=F3A852&icon_color=F3A852"
     />
     <img
       alt="Github Stats"
