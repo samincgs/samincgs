@@ -41,5 +41,5 @@
   </div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samincgs&" alt="" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samincgs&show_icons=true&locale=en" alt="samincgs" /></p>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samincgs">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samincgs&show_icons=true&locale=en&layout=compact" alt="samincgs" /></p>
