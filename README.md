@@ -42,6 +42,6 @@
 
 
 <p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samincgs&" alt="samincgs" width="700" height= "350" /></p>
-<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samincgs" width="350" height="175">
+<p ><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samincgs" width="400" height="200">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samincgs&show_icons=true&locale=en&layout=compact" alt="samincgs" width="350" height="175"/></p>
 
