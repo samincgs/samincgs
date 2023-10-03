@@ -41,7 +41,7 @@
   </div>
 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samincgs&" alt="" /></p>
-<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samincgs"></p>
+<p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samincgs&" alt="" /></p>
+<p ><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samincgs"></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=samincgs&show_icons=true&locale=en&layout=compact" alt="samincgs"/></p>
 
