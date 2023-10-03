@@ -46,11 +46,11 @@
     <img
       title="🔥 Get streak stats for your profile at git.io/streak-stats"
       alt="streak for github"
-      src="https://streak-stats.demolab.com/?user=samincgs&theme=github&hide_border=true"
+      src="https://streak-stats.demolab.com/?user=samincgs&theme=github&hide_border=true theme=great-gatsby&bg_color=192734&title_color=F3A852&icon_color=F3A852"
     />
     <img
       alt="Github Stats"
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=samincgs&show_icons=true&include_all_commits=true&count_private=true&theme=great-gatsby&hide_border=true&bg_color=1F222E&title_color=F3A852&icon_color=F3A852"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=samincgs&show_icons=true&include_all_commits=true&count_private=true&theme=great-gatsby&hide_border=true&bg_color=192734&title_color=F3A852&icon_color=F3A852"
     />
     <img
       alt="most used programming languages"
