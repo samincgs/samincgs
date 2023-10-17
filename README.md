@@ -49,10 +49,6 @@
       src="https://streak-stats.demolab.com/?user=samincgs&bg_color=192734&title_color=F3A852&icon_color=#0000FF"
     />
     <img
-      alt="Github Stats"
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=samincgs&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=192734&title_color=#F4364C&icon_color=#0000FF"
-    />
-    <img
       alt="most used programming languages"
       src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=samincgs&langs_count=8&layout=compact&hide_border=true&bg_color=192734&title_color=#F4364C&icon_color=#0000FF&hide=Jupyter%20Notebook,Roff"
     />
