@@ -43,12 +43,6 @@
 
 <h3 align="center">Github Stats: </h3>
  <div align="center">
-    <img
-      title="🔥 Get streak stats for your profile at git.io/streak-stats"
-      alt="streak for github"
-      src="https://streak-stats.demolab.com/?user=samincgs&bg_color=192734&title_color=F3A852&icon_color=#0000FF"
-    />
-    <img
       alt="most used programming languages"
       src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=samincgs&langs_count=8&layout=compact&hide_border=true&bg_color=192734&title_color=#F4364C&icon_color=#0000FF&hide=Jupyter%20Notebook,Roff"
     />
