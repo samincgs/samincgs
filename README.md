@@ -45,6 +45,6 @@
  <div>
    <img
       alt="most used programming languages"
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=samincgs&langs_count=8&layout=compact&hide_border=true&bg_color=3d66e0&title_color=#F4364C&icon_color=#0000FF&hide=Jupyter%20Notebook,Roff"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=samincgs&langs_count=8&layout=compact&hide_border=true&bg_color=2e3036&title_color=#F4364C&icon_color=#0000FF&hide=Jupyter%20Notebook,Roff"
     />
   </div>
