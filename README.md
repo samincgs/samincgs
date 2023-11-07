@@ -55,11 +55,11 @@
     />
     <img
       alt="Github Stats"
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=samincgs&show_icons=true&include_all_commits=true&count_private=true&theme=great-gatsby&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=samincgs&show_icons=true&include_all_commits=true&count_private=true&theme=monokai-metallian&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"
     />
     <img
       alt="top programming languages"
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=samincgs&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=samincgs&langs_count=8&layout=compact&theme=monokai-metallian&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff"
     />
   </div>
 
