@@ -1,3 +1,5 @@
+<div>
+  
 <h1 align="center">Samin</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nunito+One&size=28&duration=750&pause=1000&color=5d76cb&background=F346F200&vCenter=true&width=600&height=40&lines=Aspiring+Web+Developer;Pygame+Lover;React+Enthusiast;Knowledge+Seeker;Hard+Worker;" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samincgs&label=Profile%20views&color=0e75b6&style=flat" alt="samincgs" /> </p>
@@ -6,6 +8,7 @@
 - 💬 Love making websites and creating games !!! <br/>
 <br/>
 
+  ---
 
   ## My Tech Stack
 
@@ -40,11 +43,26 @@
     </p>
   </div>
 
+#
 
-<h3>Github Stats: </h3>
- <div>
-   <img
-      alt="most used programming languages"
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=samincgs&langs_count=8&layout=compact&hide_border=true&bg_color=7d8dbd&title_color=#F4364C&icon_color=#0000FF&hide=Jupyter%20Notebook,Roff"
+  ## Github Stats
+
+  <div align="center">
+    <img
+      title="🔥 Get streak stats for your profile at git.io/streak-stats"
+      alt="github streak"
+      src="https://streak-stats.demolab.com/?user=samincgs&theme=monokai-metallian&hide_border=true"
+    />
+    <img
+      alt="Github Stats"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=samincgs&show_icons=true&include_all_commits=true&count_private=true&theme=great-gatsby&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"
+    />
+    <img
+      alt="top programming languages"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=samincgs&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff"
     />
   </div>
+
+#
+
+</div>
