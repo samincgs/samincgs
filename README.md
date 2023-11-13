@@ -38,7 +38,7 @@
     <!---------------------- Development Tools ---------------------->
     <p >
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=linux,vscode,eclipse,git,github,figma,discord," />
+        <img src="https://skillicons.dev/icons?i=linux,vscode,eclipse,git,github,figma,discord,linkedin" />
       </a>
     </p>
   </div>
