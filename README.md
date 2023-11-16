@@ -51,11 +51,6 @@
       alt="top programming languages"
       src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=samincgs&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=5d76cb&icon_color=F8D866&hide=Jupyter%20Notebook,Roff"
     />
-  <img
-      title="🔥 Get streak stats for your profile at git.io/streak-stats"
-      alt="github streak"
-      src="https://streak-stats.demolab.com/?user=samincgs&hide_border=true"
-    />
   </div>
 
 #
