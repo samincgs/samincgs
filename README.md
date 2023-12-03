@@ -46,17 +46,19 @@
 #
 
 #Github Stats
-  <div align="center">
+<div align="center">
     <img
       title="🔥 Get streak stats for your profile at git.io/streak-stats"
       alt="github streak"
       src="https://streak-stats.demolab.com/?user=samincgs$background&hide_border=true"
+      style="color: #dddddd;"
     />
     <img
       alt="top programming languages"
       src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=samincgs&langs_count=8&layout=compact&theme=react&hide_border=true&hide=Jupyter%20Notebook,Roff"
+      style="color: #dddddd;"
     />
-  </div>
+</div>
 
 #
 
