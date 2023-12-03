@@ -45,8 +45,8 @@
 
 #
 
-#Github Stats
-<div align="center">
+## Github Stats
+<div >
     <img
       title="🔥 Get streak stats for your profile at git.io/streak-stats"
       alt="github streak"
