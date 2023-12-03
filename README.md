@@ -50,7 +50,7 @@
     <img
       title="🔥 Get streak stats for your profile at git.io/streak-stats"
       alt="github streak"
-      src="https://streak-stats.demolab.com/?user=samincgs&hide_border=true"
+      src="https://streak-stats.demolab.com/?user=samincgs$background&hide_border=true"
     />
     <img
       alt="top programming languages"
