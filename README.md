@@ -50,15 +50,11 @@
     <img
       title="🔥 Get streak stats for your profile at git.io/streak-stats"
       alt="github streak"
-      src="https://streak-stats.demolab.com/?user=araf821&theme=monokai-metallian&hide_border=true&bg_color=1F222E&color=F85D7F"
-    />
-    <img
-      alt="Github Stats"
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=araf821&show_icons=true&include_all_commits=true&count_private=true&theme=great-gatsby&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"
+      src="https://streak-stats.demolab.com/?user=samincgs&theme=dracula&hide_border=true&bg_color=282a36&color=bd93f9"
     />
     <img
       alt="top programming languages"
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=araf821&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=samincgs&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true&bg_color=282a36&title_color=bd93f9&icon_color=f8d866&text_color=f8d866&hide=Jupyter%20Notebook,Roff"
     />
 </div>
 
