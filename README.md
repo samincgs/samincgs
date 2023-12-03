@@ -52,9 +52,9 @@
   alt="github streak"
   src="https://streak-stats.demolab.com/?user=samincgs&theme=midnight-purple&hide_border=true&bg_color=282a36&color=bd93f9"
 />
-    <img
+   <img
   alt="top programming languages"
-  src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=samincgs&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true&bg_color=282a36&title_color=bd93f9&icon_color=f8d866&text_color=e0e0e0&hide=Jupyter%20Notebook,Roff"
+  src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=samincgs&langs_count=8&layout=compact&theme=midnight-purple&hide_border=true&bg_color=282a36&title_color=bd93f9&icon_color=f8d866&text_color=bd93f9&hide=Jupyter%20Notebook,Roff"
 />
 </div>
 
