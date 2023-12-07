@@ -1,7 +1,7 @@
 <div>
   
 <h1 align="center&color=5d76cb">Samin</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nunito+One&size=28&duration=750&pause=1000&color=FF6E96&background=F346F200&vCenter=true&width=600&height=40&lines=Aspiring+Web+Developer;Pygame+Lover;React+Enthusiast;Knowledge+Seeker;Hard+Worker;" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nunito+One&size=28&duration=750&pause=1000&color=#dc2626&background=F346F200&vCenter=true&width=600&height=40&lines=Aspiring+Web+Developer;Pygame+Lover;React+Enthusiast;Knowledge+Seeker;Hard+Worker;" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samincgs&label=Profile%20views&color=0e75b6&style=flat" alt="samincgs" /> </p>
 <p align="left"> Hey:) I'm a computer science student who is passionate about full stack web development! I have personal hobby of making 2D/indie games, I love learning about new languages and tech stacks in order to become a better programmer<3 This is a repository where I track all my side projects and ideas. My main goal is self-improvement, I like comparing my progress from when I first started to now! Thank you for checking out my profile ❤️</p>
 - 🌱 I’m currently learning NextJS 14<br/>
@@ -54,7 +54,7 @@
 />
    <img
   alt="top programming languages"
-  src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=samincgs&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=282a36&title_color=FF6E96&icon_color=FF6E96&text_color=F3F3ED&hide=Jupyter%20Notebook,Roff"
+  src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=samincgs&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=282a36&title_color=#dc2626&icon_color=#dc2626&text_color=F3F3ED&hide=Jupyter%20Notebook,Roff"
 />
 </div>
 
