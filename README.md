@@ -24,14 +24,14 @@
     <!---------------------- Frameworks ---------------------->
     <p >
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,styledcomponents,express,spring,selenium" />
+        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,express,spring" />
       </a>
     </p>
     <h6>Databases and Deployment: </h6>
     <!---------------------- Database & Deployment ---------------------->
     <p >
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mongodb,mysql,prisma,planetscale,postman,vercel,netlify,heroku" />
+        <img src="https://skillicons.dev/icons?i=mongodb,mysql,prisma,planetscale,postman,firebase,vercel,netlify" />
       </a>
     </p>
     <h6>Developer Tools: </h6>
