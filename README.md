@@ -23,21 +23,21 @@
     <!---------------------- Frameworks ---------------------->
     <p >
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,express,flask" />
+        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,express,vite,flask" />
       </a>
     </p>
     <h6>Databases and Deployment: </h6>
     <!---------------------- Database & Deployment ---------------------->
     <p >
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mongodb,mysql,prisma,planetscale,postman,firebase,vercel,netlify" />
+        <img src="https://skillicons.dev/icons?i=mongodb,mysql,prisma,planetscale,supabase,postman,vercel,netlify" />
       </a>
     </p>
     <h6>Developer Tools: </h6>
     <!---------------------- Development Tools ---------------------->
     <p >
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=linux,vscode,git,github,anaconda,figma,discord,linkedin" />
+        <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github,linux,anaconda,figma,discord,linkedin" />
       </a>
     </p>
   </div>
