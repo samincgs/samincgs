@@ -46,7 +46,11 @@
 
 ## Github Stats
 <div >
-  
+   <img
+  title="🔥 Get streak stats for your profile at git.io/streak-stats"
+  alt="github streak"
+  src="https://streak-stats.demolab.com/?user=samincgs&theme=dracula&hide_border=true&bg_color=282a36&color=bd93f9"
+/>
    <img
   alt="top programming languages"
   src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=samincgs&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=282a36&title_color=FF6E96&icon_color=FF6E96&text_color=F3F3ED&hide=Jupyter%20Notebook,Roff"
