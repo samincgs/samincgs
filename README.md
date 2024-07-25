@@ -23,7 +23,7 @@
     <!---------------------- Frameworks ---------------------->
     <p >
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,express,vite,flask" />
+        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,express,vite,flask,django" />
       </a>
     </p>
     <h6>Databases and Deployment: </h6>
