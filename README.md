@@ -25,7 +25,7 @@
     <!---------------------- Frameworks ---------------------->
     <p >
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,express,flask,django,sklearn," />
+        <img src="https://skillicons.dev/icons?i=react,nextjs,express,tailwind,bootstrap,flask,django,sklearn," />
       </a>
     </p>
     <h6>Databases and Deployment: </h6>
