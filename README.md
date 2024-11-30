@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nunito+One&size=28&duration=750&pause=1000&color=FF225F&background=F346F200&vCenter=true&width=600&height=40&lines=Python+Addict;React+Enthusiast;Pygame+Lover;Knowledge+Seeker;Hard+Worker;" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samincgs&label=Profile%20views&color=0e75b6&style=flat" alt="samincgs" /> </p>
 <p align="left"> 
-    Hey! My name is Samin, and I'm a computer science student passionate about full-stack web development and data analysis. I have a personal hobby of making 2D/indie games, and I love learning new languages, tech stacks, and frameworks to become a better programmer! This repository is where I track all my side projects and ideas. My main goal is self-improvement, and I enjoy comparing my progress from when I first started to where I am now. Thank you for checking out my profile ❤️
+    Hi! My name is Samin, and I'm a computer science student passionate about full-stack web development and data analysis. I have a personal hobby of making 2D/indie games, and I love learning new languages, tech stacks, and frameworks to become a better programmer! This repository is where I track all my side projects and ideas. My main goal is self-improvement, and I enjoy comparing my progress from when I first started to where I am now. Thank you for checking out my profile ❤️
 </p>
 - 🐼 Obsessed with pygame <br/>
 - 🌱 I’m currently learning tkinter, pillow, flask and sqlalchemy 
