@@ -7,7 +7,7 @@
     Hi! My name is Samin, and I'm a computer science student passionate about python and data analysis. I have a personal hobby of making 2D/indie games, and I love learning new languages, tech stacks, and frameworks to become a better programmer! This repository is where I track all my side projects and ideas. My main goal is self-improvement, and I enjoy comparing my progress from when I first started to where I am now. Thank you for checking out my profile ❤️
 </p>
 - 🐼 Obsessed with pygame <br/>
-- 🌱 I’m currently learning tkinter, pillow, flask and sqlalchemy 
+- 🌱 I’m currently learning godot
 <br/>
 <br/>
 
