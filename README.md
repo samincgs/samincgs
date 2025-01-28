@@ -1,10 +1,13 @@
 <div>
   
 <h1 align="center&color=5d76cb">Samin</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nunito+One&size=28&duration=750&pause=1000&color=FF225F&background=F346F200&vCenter=true&width=600&height=40&lines=Python+Addict;React+Enthusiast;Pygame+Lover;Knowledge+Seeker;Hard+Worker;" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nunito+One&size=28&duration=750&pause=1000&color=FF225F&background=F346F200&vCenter=true&width=600&height=40&lines=Python+Addict;Pygame+Lover;Knowledge+Seeker;Hard+Worker;" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samincgs&label=Profile%20views&color=0e75b6&style=flat" alt="samincgs" /> </p>
 <p align="left"> 
-    Hi! My name is Samin, and I'm a computer science student passionate about python and data analysis. I have a personal hobby of making 2D/indie games, and I love learning new languages, tech stacks, and frameworks to become a better programmer! This repository is where I track all my side projects and ideas. My main goal is self-improvement, and I enjoy comparing my progress from when I first started to where I am now. Thank you for checking out my profile ❤️
+    Hi! My name is Samin, and I'm a computer science student with a passion for Python and data analysis. In my free time, I enjoy creating 2D and indie games as a personal hobby. I’m always excited to work on new projects to explore different programming languages, tech stacks, and frameworks, all with the goal of becoming a better programmer. This repository serves as a space to document my side projects and ideas. My main focus is on self-improvement, and I find joy in tracking my progress, from where I started to where I am today.
+
+Thank you for visiting my profile! ❤️
+
 </p>
 - 🐼 Obsessed with pygame <br/>
 - 🌱 I’m currently learning godot
@@ -56,7 +59,4 @@
   src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=samincgs&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=282a36&title_color=FF6E96&icon_color=FF6E96&text_color=F3F3ED&hide=Jupyter%20Notebook,Roff" />
 
 </div>
-
-#
-
 </div>
