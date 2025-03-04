@@ -30,7 +30,7 @@ Thank you for visiting my profile! ❤️
     <!---------------------- Frameworks ---------------------->
     <p >
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,express,tailwind,bootstrap,flask,django,sklearn,selenium,godot" />
+        <img src="https://skillicons.dev/icons?i=flask,react,nextjs,vue,express,tailwind,bootstrap,django,sklearn,selenium,godot" />
       </a>
     </p>
     <h6>Databases and Deployment: </h6>
