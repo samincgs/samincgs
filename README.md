@@ -37,14 +37,14 @@ Thank you for visiting my profile! ❤️
     <!---------------------- Database & Deployment ---------------------->
     <p >
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,prisma,planetscale,supabase,postman,vercel,netlify,heroku" />
+        <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,prisma,supabase,vercel,netlify,heroku" />
       </a>
     </p>
     <h6>Developer Tools: </h6>
     <!---------------------- Development Tools ---------------------->
     <p >
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github,linux,anaconda,figma,discord,linkedin" />
+        <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github,postman,linux,anaconda,figma,discord,linkedin" />
       </a>
     </p>
   </div>
