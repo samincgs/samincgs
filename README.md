@@ -23,7 +23,7 @@ Thank you for visiting my profile! ❤️
     <!------------ Languages ----------------->
     <p >
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=py,js,ts,c,nodejs,java,html,css,lua" />
+        <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,html,css,c,java,lua" />
       </a>
     </p>
     <h6>Frameworks: </h6>
