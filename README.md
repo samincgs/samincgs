@@ -10,7 +10,7 @@ Thank you for visiting my profile! ❤️
 
 </p>
 - 🐼 Obsessed with pygame <br/>
-- 🌱 I’m currently learning godot
+- 🌱 I’m currently learning godot, flask, tkinter
 <br/>
 <br/>
 
