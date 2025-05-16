@@ -49,13 +49,4 @@ Thank you for visiting my profile! ❤️
     </p>
   </div>
 
-#
 
-## Github Stats
-<div >
-   <img
-  alt="top programming languages"
-  src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=samincgs&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=282a36&title_color=FF6E96&icon_color=FF6E96&text_color=F3F3ED&hide=Jupyter%20Notebook,Roff" />
-
-</div>
-</div>
