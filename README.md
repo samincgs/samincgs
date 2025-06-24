@@ -50,3 +50,6 @@ Thank you for visiting my profile! ❤️
   </div>
 
 
+  ![Samins's GitHub stats](https://github-readme-stats.vercel.app/api?username=samincgs&show_icons=true&theme=dracula)
+
+
